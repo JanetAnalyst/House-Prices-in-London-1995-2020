@@ -3,7 +3,7 @@
 ![image](https://github.com/JanetAnalyst/House-Prices-in-London-1995-2020/assets/141876014/7e1399ba-365a-4953-a6d6-c3529136f400)
 
 
-This topic delves into the transformation of housing prices in London from 1995 to 2020. It encomposesses an in-depth analysis of the available data. 
+This topic delves into the transformation of housing prices in London from 1995 to 2020. It encompasses an in-depth analysis of the available data. 
 
 How has the housing market (average house price) and number of houses sold changed over the years in different boroughs (areas) of London? 
 
@@ -14,7 +14,7 @@ Which year witnessed the most increase in UK House prices?
 # London Average Price by Area
 ![Average Monthly London Price by Area 2019](https://github.com/JanetAnalyst/House-Prices-in-London-1995-2020/assets/141876014/dfaae52c-234d-48dd-8d40-e271af1d753b)
 
-# Conlusions
+# Conclusions
 
 Prosperous areas like Kensington and Westminster exhibit the most elevated average prices.
 
@@ -39,10 +39,10 @@ Compare 1995 to 2020 in Pricing and number of sold homes.
 
 # Data Overview
 
-In our analysis, we will utilise the Housing in London dataset which is provided by Justinas Cirtautas. The dataset comprises of two csv files ('housing_in_london_monthly_variables.csv' and 'housing_in_london_yearly_variables.csv') containing extensive and relevant information. This information encompasses details such as the monthly average house prices, annual mean and median salaries for inhabitants in various areas.
+In our analysis, we will utilise the Housing in London dataset which is provided by Justinas Cirtautas. The dataset comprises of two csv files ('housing_in_London_monthly_variables.csv' and 'housing_in_London_yearly_variables.csv') containing extensive and relevant information. This information encompasses details such as the monthly average house prices, annual mean and median salaries for inhabitants in various areas.
 
 The data was then imported into Excel from Kaggle.
 
 The dataset categorises the data according to London's boroughs, although certain entries pertain to other regions within the UK, such as North East and West Midlands.
 
-Photo by Ollie Corfe on SW Londoner News.
+London
